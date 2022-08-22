@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ve-verdian
 - 👀 I’m interested in Web Developer 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning JavaScript and CodeIgniter
 - 📫 How to reach me masukankatasandi2292@gmail.com
 
 <!---
