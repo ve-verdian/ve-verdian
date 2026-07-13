@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ve-verdian
-- 👀 I’m interested in Web Developer, System Administrator, Infrastructure as Code 
-- 🌱 I’m currently learning JavaScript, Typescript and Nextjs
+- 👀 I’m interested in Web Developer, System Infrastructure and Monitoring
+- 🌱 I’m currently learning Bash, JavaScript, Typescript, Nextjs, Linux, Docker
 - 📫 How to reach me masukankatasandi2292@gmail.com
 
 <!---
